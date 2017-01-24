@@ -9,15 +9,15 @@ using NUnit.Framework;
 namespace TestsAlgoritmsFromCodeWars._8kyu
 {
     [TestFixture]
-    class TestsEvenOrOdd
+    class TestEvenOrOdd
     {
         [Test]
         public void MyTest()
         {
-            Assert.AreEqual("Even", EvanOrOddSolution.EvenOrOdd(2));
-            Assert.AreEqual("Odd", EvanOrOddSolution.EvenOrOdd(1));
-            Assert.AreEqual("Even", EvanOrOddSolution.EvenOrOdd(0));
-            Assert.AreEqual("Odd", EvanOrOddSolution.EvenOrOdd(7));
+            Assert.AreEqual("Even", EvenOrOddSolution.EvenOrOdd(2));
+            Assert.AreEqual("Odd", EvenOrOddSolution.EvenOrOdd(1));
+            Assert.AreEqual("Even", EvenOrOddSolution.EvenOrOdd(0));
+            Assert.AreEqual("Odd", EvenOrOddSolution.EvenOrOdd(7));
         }
 
     }

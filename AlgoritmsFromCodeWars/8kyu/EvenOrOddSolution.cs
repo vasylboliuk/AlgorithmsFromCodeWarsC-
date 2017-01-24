@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace AlgoritmsFromCodeWars._8kyu
 {
-    public class EvanOrOddSolution
+    public class EvenOrOddSolution
     {
         /*
          * Description:

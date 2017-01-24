@@ -55,8 +55,9 @@
   </Choose>
   <ItemGroup>
     <Compile Include="7kyu\TestsDigitsExplosion.cs" />
+    <Compile Include="8kyu\TestFilteringEvenNumbers.cs" />
     <Compile Include="8kyu\TestReversingWordsInAString.cs" />
-    <Compile Include="8kyu\TestsEvenOrOdd.cs" />
+    <Compile Include="8kyu\TestEvenOrOdd.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup />
