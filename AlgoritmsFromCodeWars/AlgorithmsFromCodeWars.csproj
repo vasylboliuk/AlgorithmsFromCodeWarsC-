@@ -46,6 +46,7 @@
     <Compile Include="7kyu\DigitsExplosion.cs" />
     <Compile Include="8kyu\EvenOrOddSolution.cs" />
     <Compile Include="8kyu\FilteringEvenNumbers.cs" />
+    <Compile Include="8kyu\JennysSecretMessage.cs" />
     <Compile Include="8kyu\ReversingWordsInAString.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
