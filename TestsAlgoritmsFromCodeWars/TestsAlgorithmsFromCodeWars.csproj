@@ -56,6 +56,7 @@
   <ItemGroup>
     <Compile Include="7kyu\TestsDigitsExplosion.cs" />
     <Compile Include="8kyu\TestConvertAStringToAnArray.cs" />
+    <Compile Include="8kyu\TestConvertNumberToReversedArrayOfDigits.cs" />
     <Compile Include="8kyu\TestFilteringEvenNumbers.cs" />
     <Compile Include="8kyu\TestJennysSecretMessage.cs" />
     <Compile Include="8kyu\TestReversingWordsInAString.cs" />
