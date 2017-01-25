@@ -49,6 +49,7 @@
     <Compile Include="8kyu\FilteringEvenNumbers.cs" />
     <Compile Include="8kyu\JennysSecretMessage.cs" />
     <Compile Include="8kyu\ReversingWordsInAString.cs" />
+    <Compile Include="8kyu\SortAndStar.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
