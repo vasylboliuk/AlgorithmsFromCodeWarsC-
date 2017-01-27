@@ -44,12 +44,14 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="7kyu\DigitsExplosion.cs" />
+    <Compile Include="7kyu\LargestSquareInsideACircle.cs" />
     <Compile Include="8kyu\ConvertAStringToAnArray.cs" />
     <Compile Include="8kyu\ConvertNumberToReversedArrayOfDigits.cs" />
     <Compile Include="8kyu\EvenOrOddSolution.cs" />
     <Compile Include="8kyu\FilteringEvenNumbers.cs" />
     <Compile Include="8kyu\JennysSecretMessage.cs" />
     <Compile Include="8kyu\KeepUpTheHoop.cs" />
+    <Compile Include="8kyu\RemoveFirstAndLastCharacter.cs" />
     <Compile Include="8kyu\ReversingWordsInAString.cs" />
     <Compile Include="8kyu\SortAndStar.cs" />
     <Compile Include="Program.cs" />
