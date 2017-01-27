@@ -59,6 +59,7 @@
     <Compile Include="8kyu\TestConvertNumberToReversedArrayOfDigits.cs" />
     <Compile Include="8kyu\TestFilteringEvenNumbers.cs" />
     <Compile Include="8kyu\TestJennysSecretMessage.cs" />
+    <Compile Include="8kyu\TestKeepUpTheHoop.cs" />
     <Compile Include="8kyu\TestReversingWordsInAString.cs" />
     <Compile Include="8kyu\TestEvenOrOdd.cs" />
     <Compile Include="8kyu\TestSortAndStar.cs" />

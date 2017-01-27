@@ -29,11 +29,15 @@ namespace AlgoritmsFromCodeWars._8kyu
                 
             }
             return result.ToArray();
+        }
 
-            
-            // return string.Join("***", s.OrderBy(a => , StringComparer.Ordinal).First().ToArray());
-
-
+        //Other solutions
+        public static long[] Digitize2(long n)
+        {
+            return n.ToString()
+                    .Reverse()
+                    .Select(t => Convert.ToInt64(t.ToString()))
+                    .ToArray();
         }
     }
 }
