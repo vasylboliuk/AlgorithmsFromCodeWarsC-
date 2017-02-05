@@ -54,6 +54,7 @@
     <Compile Include="8kyu\EvenOrOddSolution.cs" />
     <Compile Include="8kyu\FilteringEvenNumbers.cs" />
     <Compile Include="8kyu\FizzBuzzFirstStep.cs" />
+    <Compile Include="8kyu\GrasshopperBasicFunctionFixer.cs" />
     <Compile Include="8kyu\JennysSecretMessage.cs" />
     <Compile Include="8kyu\KeepUpTheHoop.cs" />
     <Compile Include="8kyu\RemoveFirstAndLastCharacter.cs" />
