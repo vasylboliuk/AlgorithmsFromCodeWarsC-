@@ -54,6 +54,7 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
+    <Compile Include="7kyu\TestBoredomScore.cs" />
     <Compile Include="7kyu\TestGetInitialsFromPersonName.cs" />
     <Compile Include="7kyu\TestLargestSquareInsideACircle.cs" />
     <Compile Include="7kyu\TestsDigitsExplosion.cs" />

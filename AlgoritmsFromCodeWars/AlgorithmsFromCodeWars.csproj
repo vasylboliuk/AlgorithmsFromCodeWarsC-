@@ -47,6 +47,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="7kyu\BoredomScore.cs" />
     <Compile Include="7kyu\DigitsExplosion.cs" />
     <Compile Include="7kyu\GetInitialsFromPersonName.cs" />
     <Compile Include="7kyu\LargestSquareInsideACircle.cs" />
