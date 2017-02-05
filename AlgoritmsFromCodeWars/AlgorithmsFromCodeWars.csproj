@@ -50,6 +50,7 @@
     <Compile Include="7kyu\DigitsExplosion.cs" />
     <Compile Include="7kyu\GetInitialsFromPersonName.cs" />
     <Compile Include="7kyu\LargestSquareInsideACircle.cs" />
+    <Compile Include="7kyu\ToLeetSpeakClass.cs" />
     <Compile Include="8kyu\ConvertAStringToAnArray.cs" />
     <Compile Include="8kyu\ConvertNumberToReversedArrayOfDigits.cs" />
     <Compile Include="8kyu\EvenOrOddSolution.cs" />
