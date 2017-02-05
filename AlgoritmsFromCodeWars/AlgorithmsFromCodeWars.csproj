@@ -54,6 +54,7 @@
     <Compile Include="8kyu\RemoveFirstAndLastCharacter.cs" />
     <Compile Include="8kyu\ReversingWordsInAString.cs" />
     <Compile Include="8kyu\SortAndStar.cs" />
+    <Compile Include="8kyu\ToSquareOrNotToSquare.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

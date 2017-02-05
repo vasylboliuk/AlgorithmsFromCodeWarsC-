@@ -65,6 +65,7 @@
     <Compile Include="8kyu\TestReversingWordsInAString.cs" />
     <Compile Include="8kyu\TestEvenOrOdd.cs" />
     <Compile Include="8kyu\TestSortAndStar.cs" />
+    <Compile Include="8kyu\TestToSquareOrNotToSquare.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup />
