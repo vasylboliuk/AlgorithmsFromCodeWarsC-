@@ -57,6 +57,8 @@
     <Compile Include="7kyu\TestBoredomScore.cs" />
     <Compile Include="7kyu\TestGetInitialsFromPersonName.cs" />
     <Compile Include="7kyu\TestLargestSquareInsideACircle.cs" />
+    <Compile Include="7kyu\TestMaxDiffEasy.cs" />
+    <Compile Include="7kyu\TestReplaceEveryNth.cs" />
     <Compile Include="7kyu\TestsDigitsExplosion.cs" />
     <Compile Include="7kyu\TestSumOfAllTheMultiplesOf3Or5.cs" />
     <Compile Include="7kyu\TestSumOfASequence.cs" />
