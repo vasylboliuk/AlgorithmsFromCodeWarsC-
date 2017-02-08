@@ -54,6 +54,7 @@
     <Compile Include="7kyu\LargestSquareInsideACircle.cs" />
     <Compile Include="7kyu\MaxDiffEasy.cs" />
     <Compile Include="7kyu\ReplaceEveryNth.cs" />
+    <Compile Include="7kyu\SimpleExtensionMethods.cs" />
     <Compile Include="7kyu\SumOfAllTheMultiplesOf3Or5.cs" />
     <Compile Include="7kyu\SumOfASequence.cs" />
     <Compile Include="7kyu\TemperatureAanalysisI.cs" />

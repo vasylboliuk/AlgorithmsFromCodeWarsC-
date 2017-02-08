@@ -61,6 +61,7 @@
     <Compile Include="7kyu\TestMaxDiffEasy.cs" />
     <Compile Include="7kyu\TestReplaceEveryNth.cs" />
     <Compile Include="7kyu\TestsDigitsExplosion.cs" />
+    <Compile Include="7kyu\TestSimpleExtensionMethods.cs" />
     <Compile Include="7kyu\TestSumOfAllTheMultiplesOf3Or5.cs" />
     <Compile Include="7kyu\TestSumOfASequence.cs" />
     <Compile Include="7kyu\TestTemperatureAanalysisI.cs" />
