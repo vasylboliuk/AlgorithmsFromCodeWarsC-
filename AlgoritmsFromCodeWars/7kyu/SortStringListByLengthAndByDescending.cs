@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace AlgoritmsFromCodeWars._7kyu
 {
-    public class SuzukiNeedsHelpLiningUpHisStudents
+    public class SortStringListByLengthAndByDescending
     {
         /// <summary>
         /// Suzuki needs help lining up his students!
@@ -35,8 +35,10 @@ namespace AlgoritmsFromCodeWars._7kyu
         /// <returns></returns>
         public static String[] LineupStudents(String a)
         {
-            string[] arr = a.Split(); // Create an array from string
-            arr = arr.OrderBy(aux => aux.Length).ToArray(); // Order list by string length
+            // Create an array from string
+            string[] arr = a.Split();
+            // Order list by string length
+            arr = arr.OrderBy(aux => aux.Length).ToArray();
             // Divide all list to part by length and make order for each list
             List<string> preResultList = new List<string>();
             List<string> tempList = new List<string>();
@@ -59,7 +61,8 @@ namespace AlgoritmsFromCodeWars._7kyu
                     preResultList.AddRange(tempList);
                 }
             }
-            preResultList.Reverse(); // Reverse list
+            // Reverse list
+            preResultList.Reverse();
             string[] resultArr = preResultList.ToArray();
             return resultArr;
         }

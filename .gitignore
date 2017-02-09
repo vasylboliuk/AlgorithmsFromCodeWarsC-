@@ -273,3 +273,5 @@ __pycache__/
 # Cake - Uncomment if you are using it
 # tools/**
 # !tools/packages.config
+/AlgoritmsFromCodeWars/7kyu/JavascriptFilter1.cs
+/TestsAlgoritmsFromCodeWars/7kyu/TestJavascriptFilter1.cs

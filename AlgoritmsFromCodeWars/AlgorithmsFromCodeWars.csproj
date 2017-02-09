@@ -51,6 +51,7 @@
     <Compile Include="7kyu\BoredomScore.cs" />
     <Compile Include="7kyu\DigitsExplosion.cs" />
     <Compile Include="7kyu\GetInitialsFromPersonName.cs" />
+    <Compile Include="7kyu\JavascriptFilter1.cs" />
     <Compile Include="7kyu\LargestSquareInsideACircle.cs" />
     <Compile Include="7kyu\MaxDiffEasy.cs" />
     <Compile Include="7kyu\MOD256WithoutTheMODOperator.cs" />
@@ -61,7 +62,7 @@
     <Compile Include="7kyu\SortNumbersSolution.cs" />
     <Compile Include="7kyu\SumOfAllTheMultiplesOf3Or5.cs" />
     <Compile Include="7kyu\SumOfASequence.cs" />
-    <Compile Include="7kyu\SuzukiNeedsHelpLiningUpHisStudents.cs" />
+    <Compile Include="7kyu\SortStringListByLengthAndByDescending.cs" />
     <Compile Include="7kyu\TemperatureAanalysisI.cs" />
     <Compile Include="7kyu\ToLeetSpeakClass.cs" />
     <Compile Include="8kyu\ConvertAStringToAnArray.cs" />

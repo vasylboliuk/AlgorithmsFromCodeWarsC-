@@ -17,7 +17,7 @@ namespace TestsAlgoritmsFromCodeWars._7kyu
         {
             String students = "xa xc xxb xxa xxc xxd xb xd";
             String[] expected = { "xxd", "xxc", "xxb", "xxa", "xd", "xc", "xb", "xa" };
-            Assert.AreEqual(expected, SuzukiNeedsHelpLiningUpHisStudents.LineupStudents(students));
+            Assert.AreEqual(expected, SortStringListByLengthAndByDescending.LineupStudents(students));
         }
 
         [Test]
@@ -25,7 +25,7 @@ namespace TestsAlgoritmsFromCodeWars._7kyu
         {
             String students = "Tadashi Takahiro Takao Takashi Takayuki Takehiko Takeo Takeshi Takeshi";
             String[] expected = { "Takehiko", "Takayuki", "Takahiro", "Takeshi", "Takeshi", "Takashi", "Tadashi", "Takeo", "Takao" };
-            Assert.AreEqual(expected, SuzukiNeedsHelpLiningUpHisStudents.LineupStudents(students));
+            Assert.AreEqual(expected, SortStringListByLengthAndByDescending.LineupStudents(students));
         }
         [Test]
         public void BasicTest2()
@@ -45,7 +45,7 @@ namespace TestsAlgoritmsFromCodeWars._7kyu
         "Norio", "Nobuo", "Naoko", "Naoki", "Mikio", "Yuki", "Yuji", "Yori", "Yogi",
         "Toyo", "Toru", "Tomi", "Taro", "Tama", "Shin", "Shig", "Ryuu", "Rafu", "Nori",
         "Nobu", "Miki", "Ryo", "Nao"};
-            Assert.AreEqual(expected, SuzukiNeedsHelpLiningUpHisStudents.LineupStudents(students));
+            Assert.AreEqual(expected, SortStringListByLengthAndByDescending.LineupStudents(students));
         }
     }
 }
