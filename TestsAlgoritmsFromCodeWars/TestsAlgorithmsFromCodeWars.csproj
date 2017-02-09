@@ -59,6 +59,7 @@
     <Compile Include="7kyu\TestGetInitialsFromPersonName.cs" />
     <Compile Include="7kyu\TestLargestSquareInsideACircle.cs" />
     <Compile Include="7kyu\TestMaxDiffEasy.cs" />
+    <Compile Include="7kyu\TestMOD256WithoutTheMODOperator.cs" />
     <Compile Include="7kyu\TestReplaceEveryNth.cs" />
     <Compile Include="7kyu\TestsDigitsExplosion.cs" />
     <Compile Include="7kyu\TestSimpleExtensionMethods.cs" />

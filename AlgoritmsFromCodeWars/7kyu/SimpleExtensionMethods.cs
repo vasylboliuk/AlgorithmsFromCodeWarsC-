@@ -17,5 +17,6 @@ namespace AlgoritmsFromCodeWars._7kyu
         {
             return "Goodbye, " + str + ". See you again soon!";
         }
+
     }
 }
