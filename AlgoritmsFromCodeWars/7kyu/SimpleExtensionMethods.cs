@@ -16,7 +16,6 @@ namespace AlgoritmsFromCodeWars._7kyu
         public static string SayGoodbye(this string str)
         {
             return "Goodbye, " + str + ". See you again soon!";
-
         }
     }
 }
