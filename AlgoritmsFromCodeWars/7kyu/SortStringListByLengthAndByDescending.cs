@@ -44,15 +44,14 @@ namespace AlgoritmsFromCodeWars._7kyu
             List<string> tempList = new List<string>();
             for (int i = 1; i < arr.Length; i++)
             {
+                tempList.Add(arr[i - 1]);
+
                 if (arr[i-1].Length != arr[i].Length)
                 {
-                    tempList.Add(arr[i-1]);
                     tempList = tempList.OrderBy(c => c).ToList();
                     preResultList.AddRange(tempList);
                     tempList.Clear();
                 }
-
-                else { tempList.Add(arr[i-1]);}
 
                 if (arr.Length - 1 == i)
                 {
