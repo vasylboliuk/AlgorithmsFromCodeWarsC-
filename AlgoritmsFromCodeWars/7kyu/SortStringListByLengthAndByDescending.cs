@@ -68,7 +68,6 @@ namespace AlgoritmsFromCodeWars._7kyu
 
         public static String[] LineupStudents2(String a)
         {
-
             return a.Split(' ').OrderByDescending(person => person.Length).ThenByDescending(person => person).ToArray();
         }
 
