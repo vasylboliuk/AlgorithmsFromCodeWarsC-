@@ -54,6 +54,8 @@
     <Compile Include="7kyu\LargestSquareInsideACircle.cs" />
     <Compile Include="7kyu\MaxDiffEasy.cs" />
     <Compile Include="7kyu\MOD256WithoutTheMODOperator.cs" />
+    <Compile Include="7kyu\PaddedNumbers.cs" />
+    <Compile Include="7kyu\Warrior.cs" />
     <Compile Include="7kyu\ReplaceEveryNth.cs" />
     <Compile Include="7kyu\SimpleExtensionMethods.cs" />
     <Compile Include="7kyu\SortNumbersSolution.cs" />

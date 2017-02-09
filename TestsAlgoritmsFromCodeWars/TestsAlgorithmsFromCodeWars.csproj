@@ -54,6 +54,7 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
+    <Compile Include="7kyu\TestPaddedNumbers.cs" />
     <Compile Include="7kyu\TestAllInclusive.cs" />
     <Compile Include="7kyu\TestBoredomScore.cs" />
     <Compile Include="7kyu\TestGetInitialsFromPersonName.cs" />
@@ -69,6 +70,7 @@
     <Compile Include="7kyu\TestSuzukiNeedsHelpLiningUpHisStudents.cs" />
     <Compile Include="7kyu\TestTemperatureAanalysisI.cs" />
     <Compile Include="7kyu\TestToLeetSpeak.cs" />
+    <Compile Include="7kyu\TestWarrior.cs" />
     <Compile Include="8kyu\TestConvertAStringToAnArray.cs" />
     <Compile Include="8kyu\TestConvertNumberToReversedArrayOfDigits.cs" />
     <Compile Include="8kyu\TestFilteringEvenNumbers.cs" />
