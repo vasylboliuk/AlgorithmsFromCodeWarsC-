@@ -53,6 +53,7 @@
     <Compile Include="7kyu\GetInitialsFromPersonName.cs" />
     <Compile Include="7kyu\JavascriptFilter1.cs" />
     <Compile Include="7kyu\LargestSquareInsideACircle.cs" />
+    <Compile Include="7kyu\LeapYear.cs" />
     <Compile Include="7kyu\MaxDiffEasy.cs" />
     <Compile Include="7kyu\MOD256WithoutTheMODOperator.cs" />
     <Compile Include="7kyu\PaddedNumbers.cs" />

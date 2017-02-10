@@ -54,6 +54,7 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
+    <Compile Include="7kyu\TestLeapYears.cs" />
     <Compile Include="7kyu\TestJavascriptFilter1.cs" />
     <Compile Include="7kyu\TestPaddedNumbers.cs" />
     <Compile Include="7kyu\TestAllInclusive.cs" />
