@@ -55,6 +55,7 @@
   </Choose>
   <ItemGroup>
     <Compile Include="6kyu\TestReversedWords.cs" />
+    <Compile Include="6kyu\TestSplitString.cs" />
     <Compile Include="6kyu\TestSumMultiplesOf3and5.cs" />
     <Compile Include="7kyu\TestLeapYears.cs" />
     <Compile Include="7kyu\TestJavascriptFilter1.cs" />
