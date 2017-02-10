@@ -33,5 +33,10 @@ namespace AlgoritmsFromCodeWars._7kyu
             }
             return logins;
         }
+
+        public static string[][] search_names2(string[][] logins)
+        {
+            return logins.Where(o => o.First().EndsWith("_")).ToArray();
+        }
     }
 }
