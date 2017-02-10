@@ -47,6 +47,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="6kyu\ReversedWords.cs" />
     <Compile Include="6kyu\SumMultiplesOf3and5.cs" />
     <Compile Include="7kyu\AllInclusive.cs" />
     <Compile Include="7kyu\BoredomScore.cs" />
