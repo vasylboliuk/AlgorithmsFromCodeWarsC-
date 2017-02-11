@@ -56,6 +56,7 @@
     <Compile Include="7kyu\DigitsExplosion.cs" />
     <Compile Include="7kyu\GetInitialsFromPersonName.cs" />
     <Compile Include="7kyu\JavascriptFilter1.cs" />
+    <Compile Include="7kyu\KataWithOOPTasks\PlayingWithCubesIII.cs" />
     <Compile Include="7kyu\LargestSquareInsideACircle.cs" />
     <Compile Include="7kyu\LeapYear.cs" />
     <Compile Include="7kyu\KataWithOOPTasks\MakeBackronymSolution.cs" />
