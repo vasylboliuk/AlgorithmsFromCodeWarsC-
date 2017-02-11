@@ -52,13 +52,13 @@
     <Compile Include="6kyu\SumMultiplesOf3and5.cs" />
     <Compile Include="7kyu\AllInclusive.cs" />
     <Compile Include="7kyu\BoredomScore.cs" />
-    <Compile Include="7kyu\BuildingBlocks.cs" />
+    <Compile Include="7kyu\KataWithOOPTasks\BuildingBlocks.cs" />
     <Compile Include="7kyu\DigitsExplosion.cs" />
     <Compile Include="7kyu\GetInitialsFromPersonName.cs" />
     <Compile Include="7kyu\JavascriptFilter1.cs" />
     <Compile Include="7kyu\LargestSquareInsideACircle.cs" />
     <Compile Include="7kyu\LeapYear.cs" />
-    <Compile Include="7kyu\MakeBackronymSolution.cs" />
+    <Compile Include="7kyu\KataWithOOPTasks\MakeBackronymSolution.cs" />
     <Compile Include="7kyu\MaxDiffEasy.cs" />
     <Compile Include="7kyu\MOD256WithoutTheMODOperator.cs" />
     <Compile Include="7kyu\NumberOfOccurrences.cs" />
