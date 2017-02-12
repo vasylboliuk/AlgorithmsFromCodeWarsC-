@@ -6,6 +6,12 @@ using System.Threading.Tasks;
 
 namespace AlgoritmsFromCodeWars._7kyu.KataWithOOPTasks
 {
+    /// <summary>
+    /// Description:
+    /// You have to detect if the person is a Police or a Spy :D There is an abstract class named 
+    /// "Human" with just one property which is "Name". "Name" is an string.
+    /// There are two other classes named "Police" and "Spy" that inherit from Human class.
+    /// </summary>
     public class RevealSpyIdentity
     {
         public static string FindHisIdentity(Human person)
