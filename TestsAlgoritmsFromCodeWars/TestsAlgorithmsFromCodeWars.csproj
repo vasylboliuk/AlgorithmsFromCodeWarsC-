@@ -61,6 +61,7 @@
     <Compile Include="7kyu\KataWithOOPTasks\TestCalculateIntegral.cs" />
     <Compile Include="7kyu\KataWithOOPTasks\TestPlayingWithCubesIII.cs" />
     <Compile Include="7kyu\KataWithOOPTasks\TestRemoveAllTheMarkedElementsOfAList.cs" />
+    <Compile Include="7kyu\KataWithOOPTasks\TestRevealSpyIdentity.cs" />
     <Compile Include="7kyu\TestLeapYears.cs" />
     <Compile Include="7kyu\TestJavascriptFilter1.cs" />
     <Compile Include="7kyu\KataWithOOPTasks\TestMakeBackronym.cs" />
