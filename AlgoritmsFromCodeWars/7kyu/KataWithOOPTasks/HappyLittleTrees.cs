@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace AlgoritmsFromCodeWars._7kyu.KataWithOOPTasks
 {
-    // /Create a Tree class so I can grow a happy little tree. The tree has a trunk and branches which grow
+    /// Create a Tree class so I can grow a happy little tree. The tree has a trunk and branches which grow
     /// in unit sizes. Branches can start at the current trunk height. All branches grow simultaneously,
     /// Functions to include:
     /// Tree() - Object constructor(trunk starts with size 1)
