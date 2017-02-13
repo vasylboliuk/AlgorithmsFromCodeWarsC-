@@ -69,7 +69,6 @@ namespace AlgoritmsFromCodeWars._7kyu.KataWithOOPTasks
                 branches.RemoveAt(n - 1);
                 branchesPosition.RemoveAt(n - 1);
             }
-
         }
 
         public string GetBranchesLenght()
