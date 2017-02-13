@@ -71,12 +71,12 @@ namespace AlgoritmsFromCodeWars._7kyu.KataWithOOPTasks
             }
         }
 
-        public string GetBranchesLenght()
+        public string GetLenghtOfAllBranches()
         {
             return string.Join(",", branches.Select(x => x));
         }
 
-        public string GetBranchesPositions()
+        public string GetPositionOfAllBranches()
         {
             return string.Join(",", branchesPosition.Select(x => x));
         }
@@ -89,7 +89,7 @@ namespace AlgoritmsFromCodeWars._7kyu.KataWithOOPTasks
             {
                 result = result + string.Format(
                           "The tree trunk is {0} unit(s) tall! There are {1} branch(es) that have position(s): {2} and length(s): {3}!",
-                           trunkHeight, branches.Count, GetBranchesPositions(), GetBranchesLenght());
+                           trunkHeight, branches.Count, GetPositionOfAllBranches(), GetLenghtOfAllBranches());
             }
             else
             {

@@ -275,3 +275,4 @@ __pycache__/
 # !tools/packages.config
 /AlgoritmsFromCodeWars/7kyu/JavascriptFilter1.cs
 /TestsAlgoritmsFromCodeWars/7kyu/TestJavascriptFilter1.cs
+/AlgoritmsFromCodeWars/7kyu/KataWithOOPTasks/TwoFightersOneWinner.cs
