@@ -59,6 +59,7 @@
     <Compile Include="6kyu\TestSumMultiplesOf3and5.cs" />
     <Compile Include="7kyu\KataWithOOPTasks\TestBuildingBlocks.cs" />
     <Compile Include="7kyu\KataWithOOPTasks\TestCalculateIntegral.cs" />
+    <Compile Include="7kyu\KataWithOOPTasks\TestHappyLittleTrees.cs" />
     <Compile Include="7kyu\KataWithOOPTasks\TestPlayingWithCubesIII.cs" />
     <Compile Include="7kyu\KataWithOOPTasks\TestRemoveAllTheMarkedElementsOfAList.cs" />
     <Compile Include="7kyu\KataWithOOPTasks\TestRevealSpyIdentity.cs" />

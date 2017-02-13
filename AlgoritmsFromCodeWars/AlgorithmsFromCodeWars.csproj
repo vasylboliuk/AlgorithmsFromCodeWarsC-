@@ -57,6 +57,8 @@
     <Compile Include="7kyu\GetInitialsFromPersonName.cs" />
     <Compile Include="7kyu\JavascriptFilter1.cs" />
     <Compile Include="7kyu\KataWithOOPTasks\CalculateIntegral.cs" />
+    <Compile Include="7kyu\KataWithOOPTasks\HappyLittleTrees.cs" />
+    <Compile Include="7kyu\KataWithOOPTasks\HappyLittleTrees2Solution.cs" />
     <Compile Include="7kyu\KataWithOOPTasks\PlayingWithCubesIII.cs" />
     <Compile Include="7kyu\KataWithOOPTasks\RemoveAllTheMarkedElementsOfAList.cs" />
     <Compile Include="7kyu\KataWithOOPTasks\RevealSpyIdentity.cs" />
