@@ -62,7 +62,9 @@
     <Compile Include="7kyu\KataWithOOPTasks\PlayingWithCubesIII.cs" />
     <Compile Include="7kyu\KataWithOOPTasks\RemoveAllTheMarkedElementsOfAList.cs" />
     <Compile Include="7kyu\KataWithOOPTasks\RevealSpyIdentity.cs" />
+    <Compile Include="7kyu\KataWithOOPTasks\TheLazyStartupOffice.cs" />
     <Compile Include="7kyu\KataWithOOPTasks\TwoFightersOneWinner.cs" />
+    <Compile Include="7kyu\KataWithOOPTasks\Vectors1.cs" />
     <Compile Include="7kyu\LargestSquareInsideACircle.cs" />
     <Compile Include="7kyu\LeapYear.cs" />
     <Compile Include="7kyu\KataWithOOPTasks\MakeBackronymSolution.cs" />

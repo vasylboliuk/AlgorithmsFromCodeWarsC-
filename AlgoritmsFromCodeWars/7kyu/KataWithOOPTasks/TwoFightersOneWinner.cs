@@ -31,13 +31,41 @@ namespace AlgoritmsFromCodeWars._7kyu.KataWithOOPTasks
         /// <param name="fighter2"></param>
         /// <param name="firstAttacker"></param>
         /// <returns></returns>
-        public static string declareWinner(Fighter fighter1, Fighter fighter2, string firstAttacker)
+        public string DeclareWinner(Fighter fighter1, Fighter fighter2, string firstAttacker)
         {
-            // Your code goes here. Have fun!
+            string winner = string.Empty;
+            while (fighter1.Health > 0 && fighter2.Health > 0)
+            {
+                if (firstAttacker == fighter1.Name)
+                {
+                    fighter2.Health = fighter2.Health - fighter1.DamagePerAttack;
+                    if (fighter2.Health <= 0) break;
+                    fighter1.Health = fighter1.Health - fighter2.DamagePerAttack;
+                }
+                else
+                {
+                    fighter1.Health = fighter1.Health - fighter2.DamagePerAttack;
+                    if (fighter1.Health <= 0) break;
+                    fighter2.Health = fighter2.Health - fighter1.DamagePerAttack;
+                }
+            }
+            winner = (fighter1.Health > fighter2.Health) ? fighter1.Name : fighter2.Name;
 
+            return winner;
+        }
 
-            // xcvxcv
-            return "";
+        public static string DeclareWinner2(Fighter fighter1, Fighter fighter2, string firstAttacker)
+        {
+            var fighters = new[] { fighter1, fighter2 };
+
+            var Attacker = fighters.Single(f => f.Name == firstAttacker);
+            var Defender = fighters.Single(f => f.Name != firstAttacker);
+            Defender.Health -= Attacker.DamagePerAttack;
+            if (Defender.Health <= 0)
+            {
+                return Attacker.Name;
+            }
+            return DeclareWinner2(fighter1, fighter2, Defender.Name);
         }
     }
 

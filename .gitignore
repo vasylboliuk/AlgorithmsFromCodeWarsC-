@@ -276,3 +276,6 @@ __pycache__/
 /AlgoritmsFromCodeWars/7kyu/JavascriptFilter1.cs
 /TestsAlgoritmsFromCodeWars/7kyu/TestJavascriptFilter1.cs
 /AlgoritmsFromCodeWars/7kyu/KataWithOOPTasks/TwoFightersOneWinner.cs
+/AlgoritmsFromCodeWars/7kyu/KataWithOOPTasks/TheLazyStartupOffice.cs
+/TestsAlgoritmsFromCodeWars/7kyu/KataWithOOPTasks/TestTheLazyStartupOffice.cs
+/TestsAlgoritmsFromCodeWars/7kyu/KataWithOOPTasks/TestTwoFightersOneWinner.cs
